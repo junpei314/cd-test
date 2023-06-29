@@ -1,4 +1,4 @@
 require 'sinatra'
 get '/' do
-  'Hello GitHub Actions'
+  'Hello GitHub Actions!!!'
 end
